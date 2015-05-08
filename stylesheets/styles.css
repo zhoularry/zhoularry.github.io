@@ -5,9 +5,10 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
-  background-image:url("IMG_8318_greywall_edit.png");
+  background-image:url("http://zhoularry.github.io/IMG_8318_greywall_edit.jpg");
   background-size:contain;
   background-repeat:no-repeat;
+  height:100vh;
 }
 
 h1, h2, h3, h4, h5, h6 {
